@@ -1,0 +1,3 @@
+repository,instance_id,sample_id,smell,stage,reason,detail,timestamp
+git@github.com:apache/calcite.git,4140191::feature envy,4140191,feature envy,persistence_history,entity_not_found_at_labelled_commit,"org.apache.calcite.linq4j.QueryableDefaults.selectManyN Queryable<T>|FunctionExpression<Function2<T, Integer, Enumerable<TResult>>>",2026-09-03T23:18:31
+git@github.com:apache/calcite.git,4140191::long method,4140191,long method,persistence_history,entity_not_found_at_labelled_commit,"org.apache.calcite.linq4j.QueryableDefaults.selectManyN Queryable<T>|FunctionExpression<Function2<T, Integer, Enumerable<TResult>>>",2026-09-03T23:18:31

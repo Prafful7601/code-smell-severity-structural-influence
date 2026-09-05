@@ -1,0 +1,10 @@
+git@github.com:apache/nifi-minifi.git
+git@github.com:apache/commons-jelly.git
+git@github.com:apache/mina-sshd.git
+git@github.com:apache/directory-kerby.git
+git@github.com:apache/tapestry-5.git
+git@github.com:apache/calcite.git
+git@github.com:apache/fop.git
+git@github.com:apache/poi.git
+git@github.com:apache/ofbiz-framework.git
+git@github.com:spring-projects/spring-data-book.git

@@ -1,0 +1,148 @@
+repository,instance_id,sample_id,smell,stage,reason,detail,timestamp
+git@github.com:apache/calcite.git,4140191::feature envy,4140191,feature envy,persistence_history,unexpected_error,"Command '['git', '-C', '/Users/praffulg/Downloads/Neelam paper/cache/repos/apache__calcite', 'show', 'a648f9c12309cc253628930b0cab98591caa66ab:linq4j/src/main/java/org/apache/calcite/linq4j/QueryableDefaults.java']' timed out after 60 seconds",2026-09-03T21:54:59
+git@github.com:apache/calcite.git,4140191::long method,4140191,long method,persistence_history,entity_not_found_at_labelled_commit,"org.apache.calcite.linq4j.QueryableDefaults.selectManyN Queryable<T>|FunctionExpression<Function2<T, Integer, Enumerable<TResult>>>",2026-09-03T21:55:02
+git@github.com:apache/calcite.git,4144475::feature envy,4144475,feature envy,persistence_history,unexpected_error,"Command '['git', '-C', '/Users/praffulg/Downloads/Neelam paper/cache/repos/apache__calcite', 'show', '82cdcc78dbcb8df44827c1a9fe1126ccfffc21ac:core/src/main/java/org/apache/calcite/rex/RexShuttle.java']' timed out after 60 seconds",2026-09-03T22:10:10
+git@github.com:apache/directory-kerby.git,4300952::feature envy,4300952,feature envy,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:10
+git@github.com:apache/directory-kerby.git,4300952::long method,4300952,long method,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:10
+git@github.com:apache/directory-kerby.git,4301023::blob,4301023,blob,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301023::data class,4301023,data class,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301165::feature envy,4301165,feature envy,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301165::long method,4301165,long method,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301198::feature envy,4301198,feature envy,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301198::long method,4301198,long method,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301341::feature envy,4301341,feature envy,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301341::long method,4301341,long method,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301429::feature envy,4301429,feature envy,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301429::long method,4301429,long method,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301441::feature envy,4301441,feature envy,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301441::long method,4301441,long method,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301650::feature envy,4301650,feature envy,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301650::long method,4301650,long method,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301941::feature envy,4301941,feature envy,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301941::long method,4301941,long method,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301991::feature envy,4301991,feature envy,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4301991::long method,4301991,long method,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4302252::feature envy,4302252,feature envy,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4302252::long method,4302252,long method,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4302392::feature envy,4302392,feature envy,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:11
+git@github.com:apache/directory-kerby.git,4302392::long method,4302392,long method,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:12
+git@github.com:apache/directory-kerby.git,4302405::blob,4302405,blob,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:13
+git@github.com:apache/directory-kerby.git,4302405::data class,4302405,data class,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:13
+git@github.com:apache/directory-kerby.git,4302593::feature envy,4302593,feature envy,persistence_history,unexpected_error,Invalid isoformat string: '2021-02-19T08:59:49Z',2026-09-03T22:10:14
+git@github.com:apache/directory-kerby.git,4302593::long method,4302593,long method,persistence_history,unexpected_error,Invalid isoformat string: '2021-02-19T08:59:49Z',2026-09-03T22:10:14
+git@github.com:apache/directory-kerby.git,4303100::feature envy,4303100,feature envy,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:14
+git@github.com:apache/directory-kerby.git,4303100::long method,4303100,long method,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:14
+git@github.com:apache/directory-kerby.git,4304469::blob,4304469,blob,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:15
+git@github.com:apache/directory-kerby.git,4304469::data class,4304469,data class,persistence_history,unexpected_error,Invalid isoformat string: '2019-02-21T10:53:28Z',2026-09-03T22:10:15
+git@github.com:apache/directory-kerby.git,4306236::blob,4306236,blob,persistence_history,unexpected_error,Invalid isoformat string: '2020-01-03T12:05:03Z',2026-09-03T22:10:16
+git@github.com:apache/directory-kerby.git,4306236::data class,4306236,data class,persistence_history,unexpected_error,Invalid isoformat string: '2020-01-03T12:05:03Z',2026-09-03T22:10:16
+git@github.com:apache/fop.git,4561905::feature envy,4561905,feature envy,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:22
+git@github.com:apache/fop.git,4561905::long method,4561905,long method,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:22
+git@github.com:apache/fop.git,4564618::feature envy,4564618,feature envy,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:22
+git@github.com:apache/fop.git,4564618::long method,4564618,long method,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:22
+git@github.com:apache/fop.git,4566202::feature envy,4566202,feature envy,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:22
+git@github.com:apache/fop.git,4566202::long method,4566202,long method,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:22
+git@github.com:apache/fop.git,4567462::blob,4567462,blob,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:22
+git@github.com:apache/fop.git,4567462::data class,4567462,data class,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:22
+git@github.com:apache/fop.git,4568919::feature envy,4568919,feature envy,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4568919::long method,4568919,long method,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4571455::feature envy,4571455,feature envy,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4571455::long method,4571455,long method,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4572175::blob,4572175,blob,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4572175::data class,4572175,data class,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4572409::feature envy,4572409,feature envy,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4572409::long method,4572409,long method,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4574673::feature envy,4574673,feature envy,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4574673::long method,4574673,long method,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4576061::feature envy,4576061,feature envy,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4576061::long method,4576061,long method,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4577168::blob,4577168,blob,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4577168::data class,4577168,data class,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4578782::feature envy,4578782,feature envy,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4578782::long method,4578782,long method,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:23
+git@github.com:apache/fop.git,4578967::feature envy,4578967,feature envy,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/fop.git,4578967::long method,4578967,long method,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/fop.git,4580123::blob,4580123,blob,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/fop.git,4580123::data class,4580123,data class,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/fop.git,4580142::blob,4580142,blob,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/fop.git,4580142::data class,4580142,data class,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/fop.git,4582889::feature envy,4582889,feature envy,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/fop.git,4582889::long method,4582889,long method,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/fop.git,4583764::feature envy,4583764,feature envy,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/fop.git,4583764::long method,4583764,long method,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/fop.git,4586123::feature envy,4586123,feature envy,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/fop.git,4586123::long method,4586123,long method,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/fop.git,4586915::blob,4586915,blob,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/fop.git,4586915::data class,4586915,data class,persistence_history,commit_not_ancestor_of_head,caced35327f6b6d6eeac2a13543f3c458e902101,2026-09-03T22:10:24
+git@github.com:apache/poi.git,5537428::blob,5537428,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:39
+git@github.com:apache/poi.git,5537428::data class,5537428,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:39
+git@github.com:apache/poi.git,5543924::blob,5543924,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:39
+git@github.com:apache/poi.git,5543924::data class,5543924,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:39
+git@github.com:apache/poi.git,5549285::blob,5549285,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:39
+git@github.com:apache/poi.git,5549285::data class,5549285,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:39
+git@github.com:apache/poi.git,5554251::blob,5554251,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:39
+git@github.com:apache/poi.git,5554251::data class,5554251,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:39
+git@github.com:apache/poi.git,5558410::blob,5558410,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:40
+git@github.com:apache/poi.git,5558410::data class,5558410,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:40
+git@github.com:apache/poi.git,5562678::blob,5562678,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:40
+git@github.com:apache/poi.git,5562678::data class,5562678,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:40
+git@github.com:apache/poi.git,5562874::blob,5562874,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:40
+git@github.com:apache/poi.git,5562874::data class,5562874,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:40
+git@github.com:apache/poi.git,5573449::feature envy,5573449,feature envy,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:40
+git@github.com:apache/poi.git,5573449::long method,5573449,long method,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:40
+git@github.com:apache/poi.git,5580284::blob,5580284,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:40
+git@github.com:apache/poi.git,5580284::data class,5580284,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:40
+git@github.com:apache/poi.git,5585565::feature envy,5585565,feature envy,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:40
+git@github.com:apache/poi.git,5585565::long method,5585565,long method,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:40
+git@github.com:apache/poi.git,5585616::blob,5585616,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:41
+git@github.com:apache/poi.git,5585616::data class,5585616,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:41
+git@github.com:apache/poi.git,5585822::feature envy,5585822,feature envy,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:41
+git@github.com:apache/poi.git,5585822::long method,5585822,long method,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:41
+git@github.com:apache/poi.git,5586136::blob,5586136,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:41
+git@github.com:apache/poi.git,5586136::data class,5586136,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:41
+git@github.com:apache/poi.git,5589404::blob,5589404,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:41
+git@github.com:apache/poi.git,5589404::data class,5589404,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:41
+git@github.com:apache/poi.git,5589935::blob,5589935,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:41
+git@github.com:apache/poi.git,5589935::data class,5589935,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:41
+git@github.com:apache/poi.git,5591314::feature envy,5591314,feature envy,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:41
+git@github.com:apache/poi.git,5591314::long method,5591314,long method,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:41
+git@github.com:apache/poi.git,5593201::blob,5593201,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:42
+git@github.com:apache/poi.git,5593201::data class,5593201,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:42
+git@github.com:apache/poi.git,5593437::feature envy,5593437,feature envy,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:42
+git@github.com:apache/poi.git,5593437::long method,5593437,long method,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:42
+git@github.com:apache/poi.git,5593588::blob,5593588,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:42
+git@github.com:apache/poi.git,5593588::data class,5593588,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:42
+git@github.com:apache/poi.git,5598817::blob,5598817,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:42
+git@github.com:apache/poi.git,5598817::data class,5598817,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:42
+git@github.com:apache/poi.git,5602164::feature envy,5602164,feature envy,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:42
+git@github.com:apache/poi.git,5602164::long method,5602164,long method,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:42
+git@github.com:apache/poi.git,5603925::blob,5603925,blob,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:42
+git@github.com:apache/poi.git,5603925::data class,5603925,data class,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:43
+git@github.com:apache/poi.git,5604954::feature envy,5604954,feature envy,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:43
+git@github.com:apache/poi.git,5604954::long method,5604954,long method,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:43
+git@github.com:apache/poi.git,5608439::feature envy,5608439,feature envy,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:43
+git@github.com:apache/poi.git,5608439::long method,5608439,long method,persistence_history,commit_not_ancestor_of_head,351623a86924dab9c565e08e8cecfe151522c448,2026-09-03T22:10:43
+git@github.com:apache/commons-jelly.git,8190652::blob,8190652,blob,persistence_history,unexpected_error,Invalid isoformat string: '2017-09-27T12:33:29Z',2026-09-03T22:25:58
+git@github.com:apache/commons-jelly.git,8190652::data class,8190652,data class,persistence_history,unexpected_error,Invalid isoformat string: '2017-09-27T12:33:29Z',2026-09-03T22:25:58
+git@github.com:apache/commons-jelly.git,8192330::blob,8192330,blob,persistence_history,unexpected_error,Invalid isoformat string: '2017-09-27T12:33:29Z',2026-09-03T22:26:00
+git@github.com:apache/commons-jelly.git,8192330::data class,8192330,data class,persistence_history,unexpected_error,Invalid isoformat string: '2017-09-27T12:33:29Z',2026-09-03T22:26:00
+git@github.com:apache/commons-jelly.git,8192759::blob,8192759,blob,persistence_history,unexpected_error,Invalid isoformat string: '2017-09-27T12:33:29Z',2026-09-03T22:26:02
+git@github.com:apache/commons-jelly.git,8192759::data class,8192759,data class,persistence_history,unexpected_error,Invalid isoformat string: '2017-09-27T12:33:29Z',2026-09-03T22:26:07
+git@github.com:apache/ofbiz-framework.git,8636574::feature envy,8636574,feature envy,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:21
+git@github.com:apache/ofbiz-framework.git,8636574::long method,8636574,long method,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:21
+git@github.com:apache/ofbiz-framework.git,8636644::feature envy,8636644,feature envy,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:21
+git@github.com:apache/ofbiz-framework.git,8636644::long method,8636644,long method,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:22
+git@github.com:apache/ofbiz-framework.git,8650167::feature envy,8650167,feature envy,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:22
+git@github.com:apache/ofbiz-framework.git,8650167::long method,8650167,long method,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:22
+git@github.com:apache/ofbiz-framework.git,8658785::blob,8658785,blob,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:22
+git@github.com:apache/ofbiz-framework.git,8658785::data class,8658785,data class,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:23
+git@github.com:apache/ofbiz-framework.git,8659626::feature envy,8659626,feature envy,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:23
+git@github.com:apache/ofbiz-framework.git,8659626::long method,8659626,long method,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:23
+git@github.com:apache/ofbiz-framework.git,8660235::blob,8660235,blob,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:23
+git@github.com:apache/ofbiz-framework.git,8660235::data class,8660235,data class,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:23
+git@github.com:apache/ofbiz-framework.git,8660273::feature envy,8660273,feature envy,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:24
+git@github.com:apache/ofbiz-framework.git,8660273::long method,8660273,long method,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:24
+git@github.com:apache/ofbiz-framework.git,8661442::blob,8661442,blob,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:24
+git@github.com:apache/ofbiz-framework.git,8661442::data class,8661442,data class,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:24
+git@github.com:apache/ofbiz-framework.git,8662937::feature envy,8662937,feature envy,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:25
+git@github.com:apache/ofbiz-framework.git,8662937::long method,8662937,long method,persistence_history,commit_not_ancestor_of_head,b1304439219bb04c396f5d000bec9c5fbb194b59,2026-09-03T22:26:25

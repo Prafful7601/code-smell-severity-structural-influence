@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Disposable pipeline scratch (multi-GB, resumable from scripts/ + this
+# project's METHOD.md; not meant to be committed)
+cache/
+tools/
+
+# The raw MLCQ export -- not redistributed here, same as the sibling
+# code-smell-severity-mlcq repo. Re-download via the Zenodo DOI in
+# METHOD.md / RESULTS.md.
+Test Smell Dataset.xlsx
+*.xlsx
+
+# OS / editor
+.DS_Store
+.vscode/

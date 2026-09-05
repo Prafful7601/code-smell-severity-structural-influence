@@ -1,0 +1,74 @@
+{
+  "starting_features": [
+    "cbo",
+    "rfc",
+    "loc",
+    "wmc",
+    "dit",
+    "noc",
+    "lcom",
+    "total_methods",
+    "total_fields",
+    "method_cyclomatic_complexity",
+    "n_reviewers",
+    "smell_blob",
+    "smell_data class",
+    "smell_feature envy",
+    "smell_long method",
+    "is_from_industry_relevant_project_raw_0",
+    "is_from_industry_relevant_project_raw_0,5",
+    "is_from_industry_relevant_project_raw_1"
+  ],
+  "stage1_mutual_info": {
+    "n_reviewers": 0.1433,
+    "loc": 0.065,
+    "method_cyclomatic_complexity": 0.0342,
+    "rfc": 0.0271,
+    "total_fields": 0.0269,
+    "total_methods": 0.0213,
+    "cbo": 0.0193,
+    "wmc": 0.0176,
+    "lcom": 0.0138,
+    "smell_feature envy": 0.0096,
+    "smell_data class": 0.0035,
+    "noc": 0.0028,
+    "smell_blob": 0.0006,
+    "is_from_industry_relevant_project_raw_0": 0.0002,
+    "smell_long method": 0.0002,
+    "is_from_industry_relevant_project_raw_1": 0.0002,
+    "is_from_industry_relevant_project_raw_0,5": 0.0,
+    "dit": 0.0
+  },
+  "stage1_dropped": [
+    "method_cyclomatic_complexity",
+    "rfc",
+    "total_fields",
+    "total_methods",
+    "cbo",
+    "wmc",
+    "lcom",
+    "smell_feature envy",
+    "smell_data class",
+    "noc",
+    "smell_blob",
+    "is_from_industry_relevant_project_raw_0",
+    "smell_long method",
+    "is_from_industry_relevant_project_raw_1",
+    "is_from_industry_relevant_project_raw_0,5",
+    "dit"
+  ],
+  "stage1_survivors": [
+    "n_reviewers",
+    "loc"
+  ],
+  "stage2_dropped": [],
+  "stage2_survivors": [
+    "n_reviewers",
+    "loc"
+  ],
+  "stage3_survivors": [
+    "n_reviewers",
+    "loc"
+  ],
+  "stage3_n_features": 2
+}
