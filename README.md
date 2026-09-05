@@ -14,11 +14,12 @@ it was reviewed.
 
 ## Authors
 
-- Neelam Rawat
-- Prafful Gupta ([prafful.25161161@kiet.edu](mailto:prafful.25161161@kiet.edu))
+- Neelam Rawat ([neelam.rawat@kiet.edu](mailto:neelam.rawat@kiet.edu))
+- Prafful Gupta ([praffulunabated@gmail.com](mailto:praffulunabated@gmail.com))
 - Prashant Kumar Singh ([prashantkumar532004@gmail.com](mailto:prashantkumar532004@gmail.com))
-- Mohd. Aatir
+- Mohd. Aatir ([mohdaatir01@gmail.com](mailto:mohdaatir01@gmail.com))
 - Shweta Singh ([shweta.vidudi272@gmail.com](mailto:shweta.vidudi272@gmail.com))
+- Dr. Prashant Agrawal, Associate Professor ([prashant.agraw@gmail.com](mailto:prashant.agraw@gmail.com))
 
 Department of Computer Applications, Krishna Institute of Engineering &
 Technology (KIET), Ghaziabad, Delhi-NCR, Uttar Pradesh, India.
