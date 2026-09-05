@@ -15,7 +15,7 @@ it was reviewed.
 ## Authors
 
 - Neelam Rawat
-- Prafful Gupta ([prafful.25161161@kiet.edu](mailto:prafful.25161161@kiet.edu))
+- Prafful Gupta ([prafful.25161161@kiet.edu](mailto:praffulunabated@gmail.com))
 - Prashant Kumar Singh ([prashantkumar532004@gmail.com](mailto:prashantkumar532004@gmail.com))
 - Mohd. Aatir
 - Shweta Singh ([shweta.vidudi272@gmail.com](mailto:shweta.vidudi272@gmail.com))
